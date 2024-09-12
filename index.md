@@ -4,7 +4,6 @@ At ACME Co, we're dedicated to providing the most innovative and creative gadget
 
 Welcome to our web store for all gagets!
 
-[//]: # ("The truth hides in the shadows, only for those who dig deep.")
 
 ## ACME Co. Gadget List
 
